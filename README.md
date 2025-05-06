@@ -4,7 +4,7 @@ Submitted by: **Brandon Isbell**
 
 **ColorChange** is an app that allows the user to change the app's background color with the touch of a button.
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
