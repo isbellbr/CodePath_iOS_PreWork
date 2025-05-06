@@ -22,13 +22,24 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## App Brainstorming (Step 4)
 
 **My Favorite Apps**
-1. Finch
-2. Duolingo
-3. Chess
-4. Messages
 
+*  **Finch**
+  * Positive affirmations when you log in
+  * Aesthetically-pleasing layout and animations
+*  **Duolingo**
+  * Makes learning fun with gamification
+  * Good use of sounds and colors
+  * The Duolingo Bird
+*  **Chess**
+  * Head-to-head live gameplay
+  * Ability to play with friends in real time
+*  **Apple Messages**
+  * Instant messaging with friends and family
+  * Emojis  
+   
 **App Idea**
-
+I want to create an app that will allow people in need to find the closest free food near them. I grew up in West Baltimore, an area in which many people deal with food insecurity. Although Baltimore is home to a plethora of food pantries and food-based non-profits, residents struggle to find free or affordable food options. Because of poor funding, small non-profits struggle to get the word out about what they do. As a result, residents are left hungry and organizations aren't serving as much people as they could, leaving them with underwhelming numbers on grant applications. 
+My app would remedy this problem by connecting residents with the closest food distribution center to them and offering filters that curate the results to the needs of the resident. Residents would easily filter for locations that are in walking distance, locations that offer delivery, and locations that offer a specific food type such as meat or produce. My hope is that the app would be user-friendly, aesthetically-pleasing, and functional in low-internet or offline settings. 
 
 ## Notes
 
@@ -36,8 +47,8 @@ The storyboard interface was easy to use and has inspired me to continue explori
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
-
+    Copyright [2025] [Brandon Isbell]
+                                                                                                                           
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
